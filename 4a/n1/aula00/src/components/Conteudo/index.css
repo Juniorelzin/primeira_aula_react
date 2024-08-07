@@ -1,0 +1,10 @@
+.conteudo-container{
+    background-color: #dddd00;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.foto-guaxinim{
+    border-radius: 10%;
+     
+}
